@@ -1,0 +1,10 @@
+.fa-solid.fa-heart {
+    font-size: 50px;
+}
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
